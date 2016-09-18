@@ -1,0 +1,3 @@
+1.git init:初始化目录为本地仓库
+2、git add <files>:将文件添加到本地仓库，将文件纳入版本控制中
+3、git commit -m "your comment" ：将修改提交到本地仓库
