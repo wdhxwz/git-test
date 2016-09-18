@@ -3,3 +3,7 @@
 3、git commit -m "your comment" ：将修改提交到本地仓库
 4、git log :查看提交日志
 5、git reset --hard head~ :回退到上一个版本，head表示当前版本，head~100往前100个版本
+6、git reset --hard commit_id：回退到指定版本
+
+
+
