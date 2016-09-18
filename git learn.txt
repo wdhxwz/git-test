@@ -16,6 +16,8 @@
 	git branch:查看分支
 	git merge dev :合并dev分支到当前分支
 	git branch -d dev:删除分支dev
+13、测试冲突
+	123123
 	
 	
 	
