@@ -17,7 +17,11 @@
 	git merge dev :合并dev分支到当前分支
 	git branch -d dev:删除分支dev
 13、测试冲突
+<<<<<<< HEAD
 	123123
+=======
+	
+>>>>>>> dev
 	
 	
 	
